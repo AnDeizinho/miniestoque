@@ -1,0 +1,8 @@
+C:\Users\LestTex\Desktop\andrey prog\MINIESTOQUE\MINIESTOQUE\bin\Debug\MINIESTOQUE.exe
+C:\Users\LestTex\Desktop\andrey prog\MINIESTOQUE\MINIESTOQUE\bin\Debug\MINIESTOQUE.pdb
+C:\Users\LestTex\Desktop\andrey prog\MINIESTOQUE\MINIESTOQUE\obj\Debug\MINIESTOQUE.csprojResolveAssemblyReference.cache
+C:\Users\LestTex\Desktop\andrey prog\MINIESTOQUE\MINIESTOQUE\obj\Debug\MINIESTOQUE.Form1.resources
+C:\Users\LestTex\Desktop\andrey prog\MINIESTOQUE\MINIESTOQUE\obj\Debug\MINIESTOQUE.Properties.Resources.resources
+C:\Users\LestTex\Desktop\andrey prog\MINIESTOQUE\MINIESTOQUE\obj\Debug\MINIESTOQUE.csproj.GenerateResource.Cache
+C:\Users\LestTex\Desktop\andrey prog\MINIESTOQUE\MINIESTOQUE\obj\Debug\MINIESTOQUE.exe
+C:\Users\LestTex\Desktop\andrey prog\MINIESTOQUE\MINIESTOQUE\obj\Debug\MINIESTOQUE.pdb
