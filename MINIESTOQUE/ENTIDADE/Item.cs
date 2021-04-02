@@ -7,6 +7,7 @@ using System.Xml;
 
 namespace MINIESTOQUE.ENTIDADE
 {
+    public enum Tipo { Novo, Alterar }
     [Serializable]
     public class Item
     {
@@ -20,5 +21,10 @@ namespace MINIESTOQUE.ENTIDADE
         public bool Plano { get; set; }
         public double Quantidade { get; set; }
         public string UND { get; set; }
+        public string Endereco { get; set; }
+        public override string ToString()
+        {
+            return string.Format("id={0} Desc={1} cor={2}", Id, Descricao, Cor);
+        }
     }
 }

@@ -46,24 +46,24 @@
   <ItemGroup>
     <Compile Include="ENTIDADE\Item.cs" />
     <Compile Include="ENTIDADE\Itens.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="WinForms\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
+    <Compile Include="WinForms\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmNovoItem.cs">
+    <Compile Include="WinForms\frmNovoItem.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmNovoItem.Designer.cs">
+    <Compile Include="WinForms\frmNovoItem.Designer.cs">
       <DependentUpon>frmNovoItem.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
+    <EmbeddedResource Include="WinForms\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmNovoItem.resx">
+    <EmbeddedResource Include="WinForms\frmNovoItem.resx">
       <DependentUpon>frmNovoItem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
